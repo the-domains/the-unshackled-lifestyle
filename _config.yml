@@ -1,0 +1,28 @@
+name: The Unshackled Lifestyle
+favicon: null
+layout_spectrum: 0.07461636466905475
+typography_spectrum: 0.6212979948613793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8916101278737187
+  lightness: 0.4085755634587258
+  saturation: 0.03607723186723888
+  rhythmicContrast: 0.25351641583256423
+purpose: []
