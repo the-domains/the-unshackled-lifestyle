@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Unshackled Lifestyle]]></title>
+        <description><![CDATA[The Unshackled Lifestyle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Aug 2016 00:27:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 3 Ways To Finding Contentment]]></title>
+            <description><![CDATA[<article><h1>The 3 Ways To Finding Contentment</h1><p>I was reading a post by Danielle Lynn and it reminded me of my own journey. It seems like we are always told to look forward to something. That we will be happy when we get there so just continue with the grind for now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/59c42aaa8e0ca8ae051c004418555d74/noop.jpg?input=http%3A%2F%2Fd1zlh37f1ep3tj.cloudfront.net%2Fwp%2Fwblob%2F54592E651337D2%2F2DE6%2F57BBEB%2FvNd-njqfEZd2IWiqXmzUgw%2F2012-07-20_14-40-02_949.jpg"></article>]]></description>
+            <link>http://www.theunshackledlifestyle.com/the-3-ways-to-finding-contentment/</link>
+            <guid isPermaLink="false">990b50fa-5631-4bc7-b2eb-fc9a99186d06</guid>
+            <pubDate>Fri, 12 Aug 2016 00:27:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
